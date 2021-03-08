@@ -1,3 +1,3 @@
 # C
 
-My implementation in C
+My implementations in C
